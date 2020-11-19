@@ -1,3 +1,5 @@
+(https://us.meething.space/?room=frdcsa&mesh=false)
+
 (This is a course I put together in 1 hour, it's going to look that way :)
 (it's looking like a shallow survey course on different topics in KRR)
 
@@ -84,3 +86,5 @@
 (MegaMath
 
  )
+
+(https://www.logicmoo.org/cycdoc/toc-reference.html)
